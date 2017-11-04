@@ -1,0 +1,17 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "liri bot",
+  "main": "keys.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
