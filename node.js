@@ -1,3 +1,6 @@
+// COMPLETELY IGNORE THIS FILE, USED FOR TESTING
+
+
 var Twitter = require('twitter');
 
 command = process.argv[2];
